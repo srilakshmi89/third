@@ -1,1 +1,2 @@
-s is second file
+s is second file 
+this is example.txt file

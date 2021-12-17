@@ -1,7 +1,4 @@
 s is master branch
 tis i s also master nbranch
-<<<<<<< HEAD
 abcdefghijklmnopqrstuvwxyz
-=======
 zyxwvutsrqponmlkihgfedcba
->>>>>>> past
